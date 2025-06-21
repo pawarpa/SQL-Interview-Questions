@@ -1,5 +1,12 @@
 # SQL-Interview-Questions
 
+𝗕𝗲𝘀𝘁 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 𝘁𝗼 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲 𝗦𝗤𝗟 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝗱𝗮𝗶𝗹𝘆
+
+- Dataford - https://lnkd.in/gtqdw864
+- LeetCode - https://lnkd.in/gkCpv7NA
+- HackerRank - https://lnkd.in/gnFS4frz
+- SQLZoo - https://sqlzoo.net/
+
 1- Find out nth Order/Salary from the tables.
 
 2- Find the no of output records in each join from given Table 1 & Table 2
@@ -69,10 +76,4 @@ ________________________________________________________________________________
 4. Compare query execution times before and after adding a clustered index.
 5. Write a query that avoids the use of an index to test performance differences.
 
-𝗕𝗲𝘀𝘁 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 𝘁𝗼 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲 𝗦𝗤𝗟 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝗱𝗮𝗶𝗹𝘆
-
-- Dataford - https://lnkd.in/gtqdw864
-- LeetCode - https://lnkd.in/gkCpv7NA
-- HackerRank - https://lnkd.in/gnFS4frz
-- SQLZoo - https://sqlzoo.net/
 
